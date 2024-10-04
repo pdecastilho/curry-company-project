@@ -1,5 +1,7 @@
 # Curry Company Project
 
+<img src="https://raw.githubusercontent.com/pdecastilho/curry-company-project/main/assets/screenshot-1.png" width="700" alt="Screenshot do Dashboard mostrando o gráfico do tempo médio de entrega por cidade" />
+
 ## 1. Problema de negócio
 
 A Cury Company é uma empresa de tecnologia que criou um aplicativo que conecta restaurantes, entregadores e pessoas. Através desse aplicativo, é possível realizar o pedido de uma refeição, em qualquer restaurante cadastrado, e recebê-lo no conforto da sua casa por um entregador também cadastrado no aplicativo da Cury Company.
